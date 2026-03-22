@@ -1,0 +1,11 @@
+[239fe30d-8abd-4060-9650-6dbda7c69b27]
+Description=New window settings
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+types=1
+
+[General]
+count=1
+rules=239fe30d-8abd-4060-9650-6dbda7c69b27
